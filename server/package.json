@@ -1,0 +1,17 @@
+{
+  "name": "streambud-server",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "obs-websocket-js": "^5.0.6",
+    "socket.io": "^4.7.5"
+  }
+}
